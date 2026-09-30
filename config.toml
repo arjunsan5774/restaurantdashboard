@@ -1,0 +1,7 @@
+# Optional: makes Streamlit's own widgets (dropdowns, sliders, date pickers) dark to match the dashboard.
+[theme]
+base = "dark"
+primaryColor = "#e2b25f"
+backgroundColor = "#0b1220"
+secondaryBackgroundColor = "#131d33"
+textColor = "#e8ecf4"
